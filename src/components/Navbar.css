@@ -1,0 +1,13 @@
+.navbarContainer {
+  display: flex;
+  padding: 24px;
+
+  font-size: 20px;
+  background-color: rgb(227, 227, 252);
+
+  margin-bottom: 20px;
+}
+
+.navbarContainer a {
+  margin-left: 24px;
+}
